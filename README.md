@@ -1,4 +1,1 @@
-- grace j. bergen tech compsci
-- music, linguistics, coding
-- html, js, python, & p5js 
-- grajun26@bergen.org
+
